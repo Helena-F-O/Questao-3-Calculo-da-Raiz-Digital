@@ -2,7 +2,9 @@
 Questão 3 da avaliação N2 de Desenvolvimento Ágil
 
 Academica: Helena Felicia de Oliveira Avelino e José Vitor Vegini
+
 Fase:6
+
 Engenharia de Software
 
 Questão 3: Cálculo da Raiz Digital
