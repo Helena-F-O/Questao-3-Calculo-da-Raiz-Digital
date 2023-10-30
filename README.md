@@ -7,6 +7,14 @@ Fase:6
 
 Engenharia de Software
 
+Para rodar utilizei um compilador online de Python: https://www.onlinegdb.com/online_python_compiler
+Retorna o resultado ao executar o projeto.
+
+
+
+
+Instruções da questão:
+
 Questão 3: Cálculo da Raiz Digital
 
 Você deve implementar uma função chamada digital_root(n) que calcula a raiz digital de um número não negativo. A raiz digital é a soma recursiva de todos os dígitos de um número até que reste apenas um dígito.
